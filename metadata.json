@@ -1,0 +1,8 @@
+{
+  "name": "GMT GLOBAL ACCESS",
+  "description": "Authorized Centralized Control & Essential System Services. A high-tech glassmorphic dashboard for analytical problem solving, global intelligence, and system diagnostics powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
